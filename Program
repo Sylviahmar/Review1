@@ -1,9 +1,11 @@
 class Parent {
-    void show() { System.out.println("Parent's show())
+    void show() 
+{ System.out.println("Parent's show()
 }
  
 // Inherited class
-class Child extends {
+class Child extends 
+{
     // This method overrides show() of Parent
     @Override void sho()
     {
@@ -12,7 +14,8 @@ class Child extends {
 }
  
 // Driver class
-class Main {
+class Main 
+{
     public static void main(String[] args)
     {
         // If a Parent type reference refers
